@@ -11,6 +11,7 @@ networkx = "*"
 obonet = "*"
 ipykernel = "*"
 bio = "*"
+seaborn = "*"
 
 [dev-packages]
 ipykernel = "*"
