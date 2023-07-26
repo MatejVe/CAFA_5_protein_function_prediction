@@ -13,6 +13,8 @@ ipykernel = "*"
 bio = "*"
 seaborn = "*"
 scikit-learn = "*"
+pyarrow = "*"
+tensorflow = "*"
 
 [dev-packages]
 ipykernel = "*"
