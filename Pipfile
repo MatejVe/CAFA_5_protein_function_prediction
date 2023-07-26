@@ -12,6 +12,7 @@ obonet = "*"
 ipykernel = "*"
 bio = "*"
 seaborn = "*"
+scikit-learn = "*"
 
 [dev-packages]
 ipykernel = "*"
